@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismatikController", "PrismatikController.csproj", "{FBD9B38E-BF39-4349-9ABB-4C33DCB01FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD9B38E-BF39-4349-9ABB-4C33DCB01FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD9B38E-BF39-4349-9ABB-4C33DCB01FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD9B38E-BF39-4349-9ABB-4C33DCB01FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD9B38E-BF39-4349-9ABB-4C33DCB01FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6415A1-A004-493D-9DCD-44C545DE6CA0}
+	EndGlobalSection
+EndGlobal
