@@ -1,6 +1,6 @@
 ﻿namespace PrismatikController
 {
-	partial class Service1
+	partial class PrismatikController
 	{
 		/// <summary> 
 		/// Required designer variable.
@@ -28,8 +28,11 @@
 		/// </summary>
 		private void InitializeComponent ()
 		{
-			components = new System.ComponentModel.Container ();
-			this.ServiceName = "Service1";
+			// 
+			// PrismatikController
+			// 
+			this.ServiceName = "PrismatikController";
+
 		}
 
 		#endregion
